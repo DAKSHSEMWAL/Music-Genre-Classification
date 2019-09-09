@@ -1,0 +1,17 @@
+Django
+
+Pillow
+
+numpy
+
+olefile
+
+pydub
+
+python-speech-features
+
+pytz
+
+scikit-learn
+
+scipy
