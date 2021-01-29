@@ -1,5 +1,4 @@
 # Music-Genre-Classification
-======================
 
 ![Screenshot](img1.png)
 ![Screenshot1](img2.png)
